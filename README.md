@@ -19,7 +19,7 @@ To run the Weather App locally, follow these steps:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/aspects19/weather-app.git
+   https://github.com/Vijaykesavan-Dev/Weather.git
    ```
 
 2. Navigate into the project directory:
@@ -37,7 +37,7 @@ To run the Weather App locally, follow these steps:
 4. Start app
 
    ```sh
-   npm start
+   npm start / npx expo start
    ```
 
 5. Scan the QR code on the terminal on Expo Go App on your phone.
